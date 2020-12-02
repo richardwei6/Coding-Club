@@ -1,5 +1,5 @@
 # AHS Coding Club
-Hosts the AHS Coding Club domain
+Hosts the [AHS Coding Club domain](https://arcadiacodingclub.github.io/Coding-Club/)
 
 ## Home
 The site design is now 100% responsive!
@@ -36,7 +36,7 @@ There are no contributing guidelines (as of 12/7/2017). Fork and code away! Subm
 ## Copyright and Licenses
 
 ### backup, css/styles.css, index.html, js/coderain.js, README.md
-Code and documentation © 2017 [AHS Coding Club](http://ahscodingclub.com).
+Code and documentation © 2017 [AHS Coding Club](https://arcadiacodingclub.github.io/Coding-Club/).
 
 ### Site design based on [Twitter Bootstrap](http://getbootstrap.com)
 Code and documentation © 2011-2016 [Twitter, Inc.](https://twitter.com) Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
